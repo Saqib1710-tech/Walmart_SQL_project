@@ -70,10 +70,12 @@ Add a new column named month_name that contains the extracted months of the year
 Conducting exploratory data analysis is essential to address the project's listed questions and objectives.
 
 Business Questions to Answer
+
 Generic Questions
-How many distinct cities are present in the dataset?
-In which city is each branch situated?
-Product Analysis
+
+-How many distinct cities are present in the dataset?
+-In which city is each branch situated?
+-Product Analysis
 How many distinct product lines are there in the dataset?
 What is the most common payment method?
 What is the most selling product line?
